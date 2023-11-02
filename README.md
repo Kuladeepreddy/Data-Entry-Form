@@ -16,7 +16,7 @@ This repository contains a simple yet effective data entry form application deve
 2. Install the required dependencies, including Python and the relevant GUI library (e.g., Tkinter).
 3. Run the application and start entering data via the intuitive form.
 4. Utilize the various functionalities like data editing, exporting, and more as needed.
-5. Feel free to customize and expand the application to suit your specific needs.
+5. Feel free to expand and customize the application to suit your specific needs.
 
 
 
